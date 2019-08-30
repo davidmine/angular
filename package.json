@@ -36,7 +36,6 @@
   "devDependencies": {
     "@types/jest": "^24.0.18",
     "@types/react-router-dom": "^4.3.5",
-    "jest": "^24.9.0",
     "ts-jest": "^24.0.2"
   }
 }
